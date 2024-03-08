@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Header Title='Estatisticas Neymar Jr'/>
+      <Header Title='Neymar Jr. Estatisticas e Títulos conquistados:'/>
       <Card></Card>
     </>
   )
